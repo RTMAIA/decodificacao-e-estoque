@@ -1,0 +1,13 @@
+{'Item': 'Pasta', 'Preco': 2.5, 'Quantidade': 6, 'Valor total': 15.0}
+{'Item': 'Macarrao', 'Preco': 1.0, 'Quantidade': 5, 'Valor total': 5.0}
+{'Item': 'Caderno', 'Preco': 15.0, 'Quantidade': 8, 'Valor total': 120.0}
+{'Item': 'Monitor', 'Preco': 1200.0, 'Quantidade': 10, 'Valor total': 12000.0}
+{'Item': 'Oleo', 'Preco': 7.0, 'Quantidade': 12, 'Valor total': 84.0}
+{'Item': 'Lapis', 'Preco': 1.5, 'Quantidade': 20, 'Valor total': 30.0}
+{'Item': 'Computador', 'Preco': 3500.0, 'Quantidade': 9, 'Valor total': 31500.0}
+{'Item': 'Violao', 'Preco': 350.0, 'Quantidade': 5, 'Valor total': 1750.0} 
+{'Item': 'Celular', 'Preco': 2500.0, 'Quantidade': 3, 'Valor total': 7500.0} 
+{'Item': 'Cadeira', 'Preco': 650.0, 'Quantidade': 3, 'Valor total': 1950.0} 
+{'Item': 'Notebook', 'Preco': 3500.0, 'Quantidade': 2, 'Valor total': 7000.0} 
+{'Item': 'Garrafa', 'Preco': 2.0, 'Quantidade': 10, 'Valor total': 20.0} 
+{'Item': 'Impressora', 'Preco': 350.0, 'Quantidade': 6, 'Valor total': 2100.0} 
